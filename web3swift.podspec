@@ -22,7 +22,7 @@ s.public_header_files = "web3swift/**/*.{h}"
 s.pod_target_xcconfig = { 'DEFINES_MODULE' => 'YES' }
 
 s.frameworks = 'CoreImage'
-s.dependency 'Alamofire', '~> 4.7'
+s.dependency 'Alamofire'
 s.dependency 'Alamofire-Synchronous', '~> 4.0'
 s.dependency 'BigInt','~> 4.0'
 s.dependency 'Result'
