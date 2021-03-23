@@ -27,6 +27,6 @@ s.dependency 'BigInt','~> 4.0'
 s.dependency 'Result'
 s.dependency 'CryptoSwift'
 s.dependency 'libsodium'
-s.dependency 'secp256k1_ios'
+# s.dependency 'secp256k1_ios'
 s.dependency 'PromiseKit'
 end
